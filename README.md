@@ -1,4 +1,4 @@
-# DSS-Blockchain-Uygulamas-
+# DSS Blockchain Uygulaması
 DSS kişilerin kendi sunucuları veya kişisel cihazları üzerindeki depolama alanlarını kiralayabilecekleri ve kendileri için herhangi bir sunucu alabilecekleri bir alım satım platformudur. Kullanıcıların blok zinciri güvenliği ile birlikte kendi veri depolamalarını değerlendirmelerini sağlamak
 
 ![Screenshot_2](https://user-images.githubusercontent.com/84200491/165111661-f5bd17c3-4dd8-4f1c-8f13-5206eab41d17.png)
